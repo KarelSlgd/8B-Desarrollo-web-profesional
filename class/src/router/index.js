@@ -48,7 +48,7 @@ const routes = [
       {
         path: "/lineas",
         name: "lineas",
-        component: () => import("../components/AsientosReservados.vue"),
+        component: () => import("../components/LineasDeVuelo.vue"),
       },
       {
         path: "/proximos",
