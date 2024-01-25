@@ -35,6 +35,9 @@
             <b-nav-item>
               <b-link to="/main">Main</b-link>
             </b-nav-item>
+             <b-nav-item>
+              <b-link to="/formulario">Formulario</b-link>
+            </b-nav-item>
           </b-nav>
         </b-col>
         <b-col md="10">
