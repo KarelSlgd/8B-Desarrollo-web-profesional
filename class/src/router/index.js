@@ -60,6 +60,11 @@ const routes = [
         name: "proximos",
         component: () => import("../components/ProximosVuelos.vue"),
       },
+      {
+        path: "/userAuth",
+        name: "userAuth",
+        component: () => import("../components/UserAuth.vue"),
+      }
     ],
   },
 ];
